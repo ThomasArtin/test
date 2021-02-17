@@ -1,4 +1,5 @@
-# test
+# Simple Object detection approach
+[colab notebook](https://colab.research.google.com/drive/18p8A-g9umyKG4-7yGT7Dshe08yTHBfj7?usp=sharing)
 
 This method only requires object detection with bounding boxes that detects crops only which makes it a much faster alternative than semantic segmentation and easily scalable to other types of crops other than carrots and only requires an object detection model to be trained on the crops.
 
